@@ -2,23 +2,23 @@
 
 Voici le déroulement de notre premier RUSH :
 
-# 1- GATEWAY
+## 1- GATEWAY
 toujours en travail, non finis
 
-#2- DNS & DHCP
+## 2- DNS & DHCP
 DNS toujours en travail, DHCP complété. Transfert vers le github du chef de projet bientôt, avec en plus la partie DHCP
 
-#3- WEB
+## 3- WEB
 Page WEB terminée, serveur web toujours en création a cause d'une panne technique. On a déjà fini la configuration du serveur web, manque plus que de réimplémenter le code dans la VM soit a la main, soit via transfer drive.
 
-#4- FTP
+## 4- FTP
 Projet fini, serveur FTP peut des fois ne pas se lancer dès la première fois je comprends pas pourquoi.
 
-#5- Client
+## 5- Client
 Projet presque fini, VM installé, Libre Office installé, Visual Studio Code en cours d'installation, Sublime text pas installé, Minecraft installé.
 
 
-#Résumé de l'organisation :
+### Résumé de l'organisation :
 
 Thomas RUGANI s'occupe du GATEWAY, mais a beaucoup de mal a le configurer
 Thomas FORNERONE s'occupe du DNS DHCP, DHCP reussi et DNS en cours de travail
